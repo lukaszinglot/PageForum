@@ -1,0 +1,22 @@
+.btn-post {
+    margin-top: 5vh;
+}
+
+.p-name {
+    font-size: 19px;
+    letter-spacing: -1px;
+}
+
+.p-email {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-size: 17px;
+    text-decoration: underline;
+    color: #2185d0;
+}
+
+.p-body {
+    margin-top: 20px;
+    text-align: left;
+}
