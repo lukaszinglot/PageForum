@@ -1,0 +1,34 @@
+.ui.widget {
+    -webkit-box-shadow: 5px 5px 3px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 5px 5px 3px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 5px 5px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+.ui.widget:hover {
+    -webkit-box-shadow: 5px 5px 1px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 5px 5px 1px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 5px 5px 1px 0px rgba(0, 0, 0, 0.75);
+}
+
+.ui.card {
+    top: 30px;
+    background-color: "#ffffff";
+    opacity: 0.6;
+    border: "5px #6E9075 solid";
+    border-radius: 0;
+}
+
+.ui.card .meta {
+    color: black;
+    opacity: 1;
+    font-weight: bold
+}
+
+.ui.card .content.bottom-card {
+    background-color: #5F4B66;
+    opacity: 1
+}
+
+.ui .button {
+    background: #B192B3
+}
