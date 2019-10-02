@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/tex2res4.png);
+    background-color: "black";
+}
+
+.fontSize {
+    font-size: 20px
+}
+
+.boldFont {
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 23px;
+}
+
+.ui.modal {
+    width: 400px;
+    height: 286px;
+}
+
+.ui.input {
+    max-width: 286px;
+    margin-left: 57px;
+    margin-bottom: 5px;
+}
+
+.ui.form textarea {
+    margin-left: 57px;
+    min-height: 100px;
+    min-width: 286px;
+    max-height: 100px;
+    max-width: 286px;
+}
+
+.ui.modal .actions {
+    text-align: right;
+}
+
+.ui.modal header {
+    text-align: center
+}
